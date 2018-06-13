@@ -3,6 +3,7 @@ html{
     background-size: cover;
 }
 .keys{
+    margin:300;
     display: flex;
     flex: 1;
     min-height: 10vh;
